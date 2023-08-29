@@ -12,6 +12,7 @@ export function Introduction() {
     >
       <Container className="text-lg tracking-tight text-slate-700">
         <p className="font-display text-4xl font-bold tracking-tight text-slate-900">
+          {/* eslint-disable */}
           "Crafting Elegance with Royal Paris Perfumes"
         </p>
         <p className="mt-4">

@@ -13,6 +13,7 @@ function Testimonial() {
       </div>
       <blockquote className="mt-2">
         <p className="font-display text-xl font-medium text-slate-900">
+          {/* eslint-disable */}
           "This approach to crafting fragrances is absolutely ingenious.
           I find myself wishing I had been acquainted with this technique much earlier."
         </p>
